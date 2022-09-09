@@ -1,0 +1,22 @@
+@import 'utils/variables.scss';
+@import 'components/visually-hidden';
+@import './base/general';
+@import './utils/viewpot-size';
+
+@import 'components/page-header';
+@import './components/header-menu';
+@import 'components/logo';
+@import 'components/page-hero';
+@import 'components/page-features';
+@import 'components/page-work';
+@import 'components/page-team';
+@import 'components/page-clients';
+@import 'components/portfolio-card-set';
+@import 'components/modal-form';
+@import 'components/page-footer';
+
+@import './base/page-conteiner';
+@import './base/page-section';
+@import 'components/page-socials';
+
+@import 'components/portfolio-btn';
